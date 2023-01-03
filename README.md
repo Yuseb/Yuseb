@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Online Sportswear Store**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **yusufesadb@outlook.com**
 
