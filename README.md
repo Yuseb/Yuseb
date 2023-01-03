@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yusufesadb@outlook.com**
 
-- 📄 Know about my experiences [LinkedIn](linkedin.com/in/yusuf-bilgic)
+- 📄 Know about my experiences [LinkedIn]([linkedin.com/in/yusuf-bilgic](https://www.linkedin.com/in/yusuf-bilgic/))
 
 - ⚡ Fun fact **I speak 3 languages.**
 
